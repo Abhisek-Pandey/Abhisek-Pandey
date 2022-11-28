@@ -27,7 +27,9 @@ Talk to me about:
 
 Some Pictures of Mine:- 
 
-<img src='https://drive.google.com/file/d/1Rj4g1jjgXFaELMV5fkUnITAa8IsIuoMF/preview' />
+<img src='https://drive.google.com/file/d/1Rj4g1jjgXFaELMV5fkUnITAa8IsIuoMF/preview' 
+width="640" height="480" allow="autoplay">
+
 
 <iframe src="https://drive.google.com/file/d/1Rj4g1jjgXFaELMV5fkUnITAa8IsIuoMF/preview" width="640" height="480" allow="autoplay"></iframe>
 
