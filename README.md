@@ -27,7 +27,7 @@ Talk to me about:
 
 Some Pictures of Mine:- 
 
-<a href="url"><img src="https://github.com/Abhisek-Pandey/Abhisek-Pandey/blob/a8c1c40f1154e9acfc2cd15ebc38a0f860d8e5d1/pictures/its_abhisek_ji-28112022-0001.jpg" width="500" height ="500" style="border-radius:50%"></a>
+<img src="https://github.com/Abhisek-Pandey/Abhisek-Pandey/blob/a8c1c40f1154e9acfc2cd15ebc38a0f860d8e5d1/pictures/its_abhisek_ji-28112022-0001.jpg" width="250" height ="250">
 
 
 ![Abhisek's github stats](https://github-readme-stats.vercel.app/api?username=Abhisek-Pandey&hide=["issues"]&show_icons=true)
