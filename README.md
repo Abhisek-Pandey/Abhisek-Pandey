@@ -20,8 +20,8 @@ I am **`Abhisek Pandey`** 🧔🏻‍♂️. I am from **Berhampur, Odisha** and
 * Internshala Student Partner-16.
 ## ⚡ Languages
 Talk to me about:
-**`-`** **Java**
-**`-`** **Python**.
+* **`-`** **Java**
+* **`-`** **Python**.
 ## Hello World!! 🤔
 - 💬 Ask me about anything an everything.
 - 📫 Here's my Insta: [Instagram](https://www.instagram.com/its_abhisek_ji/).
