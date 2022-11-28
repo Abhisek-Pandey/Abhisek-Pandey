@@ -8,7 +8,7 @@
  [![Medium Badge](https://img.shields.io/badge/-@mailharshkhatri-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@mailharshkhatri/)](https://medium.com/harsh-kumar-khatri)
 [![Gmail Badge](https://img.shields.io/badge/-mailharshkhatri@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailharshkhatri@gmail.com)](mailto:mailharshkhatri@gmail.com)
 
-I am Abhisek Pandey<imp src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/man-light-skin-tone-beard_1f9d4-1f3fb-200d-2642-fe0f.png" width=10px>. I am from Kota, Rajasthan and currently doing my B.Tech from Career Point University, Alniya 🏫. I love to explore and learn about new things.
+I am Abhisek Pandey<imp src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/man-light-skin-tone-beard_1f9d4-1f3fb-200d-2642-fe0f.png" width=100px>. I am from Kota, Rajasthan and currently doing my B.Tech from Career Point University, Alniya 🏫. I love to explore and learn about new things.
 ## 👯 Communities
 * DSC Lead.
 * Mentor at HackItShipIt(MLH), Hack for the people, HackinCodes.
