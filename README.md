@@ -27,7 +27,7 @@ Talk to me about:
 
 Some Pictures of Mine:- 
 
-![Picture 1](https://drive.google.com/file/d/1Rj4g1jjgXFaELMV5fkUnITAa8IsIuoMF/preview)
+![Picture 1](pictures\its_abhisek_ji-28112022-0001.jpg)
 
 ![Abhisek's github stats](https://github-readme-stats.vercel.app/api?username=Abhisek-Pandey&hide=["issues"]&show_icons=true)
 
