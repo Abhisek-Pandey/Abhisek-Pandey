@@ -9,13 +9,15 @@
 [![Gmail Badge](https://img.shields.io/badge/-mailharshkhatri@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailharshkhatri@gmail.com)](mailto:mailharshkhatri@gmail.com)
 
 I am **`Abhisek Pandey`** 🧔🏻‍♂️. I am from **Berhampur, Odisha** and currently doing my **B.Tech** from **`Gandhi Institute for Education and Technology, Baniatangi`** 🏫. I love to explore and learn about new things. Always find my self in unusal place, where i should not be. I wont brag that **`I like challenges`** but though would brag that **`either I Ace`** on it or **`Learn from it.`** 
+
+
 ## 👯 Communities
 * .
 * 
 ## ⚡ Languages
 Talk to me about:
-* **Java**
-* **Python**.
+* **Java** ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+* **Python** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ## Hello World!! 🤔
 - 💬 Ask me about anything an everything.
 - 📫 Here's my Insta: [Instagram](https://www.instagram.com/its_abhisek_ji/).
