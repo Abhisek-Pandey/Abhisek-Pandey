@@ -11,17 +11,11 @@
 I am **`Abhisek Pandey`** 🧔🏻‍♂️. I am from **Berhampur, Odisha** and currently doing my **B.Tech** from **`Gandhi Institute for Education and Technology, Baniatangi`** 🏫. I love to explore and learn about new things. Always find my self in unusal place, where i should not be. I wont brag that **`I like challenges`** but though would brag that **`either I Ace`** on it or **`Learn from it.`** 
 ## 👯 Communities
 * .
-* Mentor at HackItShipIt(MLH), Hack for the people, HackinCodes.
-* Microsoft Student Learn Ambassador (MSP/MLSA).
-* Deeplearning.ai event ambassador.
-* Management Team Lead at Voice Of Code.
-* CSE Club at CPU.
-* CamPus Ambassador at Coding Ninja and Humanity Welfare Council.
-* Internshala Student Partner-16.
+* 
 ## ⚡ Languages
 Talk to me about:
-* **`-`** **Java**
-* **`-`** **Python**.
+* **Java**
+* **Python**.
 ## Hello World!! 🤔
 - 💬 Ask me about anything an everything.
 - 📫 Here's my Insta: [Instagram](https://www.instagram.com/its_abhisek_ji/).
@@ -30,4 +24,4 @@ Talk to me about:
 
 ![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=Abhisek-Pandey&hide=["issues"]&show_icons=true)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=harshkumarkhatri.harshkumarkhatri)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Abhisek-Pandey.Abhise-Pandey)
