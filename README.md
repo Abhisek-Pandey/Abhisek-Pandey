@@ -8,9 +8,9 @@
  [![Medium Badge](https://img.shields.io/badge/-@mailharshkhatri-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@mailharshkhatri/)](https://medium.com/harsh-kumar-khatri)
 [![Gmail Badge](https://img.shields.io/badge/-mailharshkhatri@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailharshkhatri@gmail.com)](mailto:mailharshkhatri@gmail.com)
 
-I am Abhisek Pandey<imp src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/man-light-skin-tone-beard_1f9d4-1f3fb-200d-2642-fe0f.png" width=100px>. I am from Kota, Rajasthan and currently doing my B.Tech from Career Point University, Alniya 🏫. I love to explore and learn about new things.
+I am **`Abhisek Pandey`** 🧔🏻‍♂️. I am from **Berhampur, Odisha** and currently doing my **B.Tech** from **`Gandhi Institute for Education and Technology, Baniatangi`** 🏫. I love to explore and learn about new things. Always find my self in unusal place, where i should not be. I wont brag that **`I like challenges`** but though would brag that **`either I Ace`** on it or **`Learn from it.`** 
 ## 👯 Communities
-* DSC Lead.
+* .
 * Mentor at HackItShipIt(MLH), Hack for the people, HackinCodes.
 * Microsoft Student Learn Ambassador (MSP/MLSA).
 * Deeplearning.ai event ambassador.
@@ -18,19 +18,13 @@ I am Abhisek Pandey<imp src="https://emojipedia-us.s3.amazonaws.com/source/micro
 * CSE Club at CPU.
 * CamPus Ambassador at Coding Ninja and Humanity Welfare Council.
 * Internshala Student Partner-16.
-## ⚡ Technologies
+## ⚡ Languages
 Talk to me about:
-- Front-end development using **HTML, Javascript, CSS, Bootstrap**.
-- Backend development using **Flask, Django**.
-- Making for **Relational Database Management Systems**.
-- Robust full-stack system design implementation.
-- Desktop application development using **Flutter** (Still learning).
-- Mobile application development using **Flutter and Kotlin**.
-- Creating scalable cloud architecture using **AWS Cloud**.
-- Solving Data structure and algorithm questions in **Java and Python**.
+**`-`** **Java**
+**`-`** **Python**.
 ## Hello World!! 🤔
 - 💬 Ask me about anything an everything.
-- 📫 Read my blogs: [Harsh Blog](https://medium.com/harsh-kumar-khatri).
+- 📫 Here's my Insta: [Instagram](https://www.instagram.com/its_abhisek_ji/).
 - 🎯 Portfolio site: [Portfolio](https://harshkumarkhatri.github.io/Portfolio-Site/index.html).
 - 🔔 Subscribe:- [Harsh Kumar Khatri](https://www.youtube.com/channel/UCKNtMU9M559bmXxKoT6YeJw).
 - ⚡ Fun fact: Internet users blink less than usual.
