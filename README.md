@@ -27,7 +27,8 @@ Talk to me about:
 
 Some Pictures of Mine:- 
 
-<img src="https://github.com/Abhisek-Pandey/Abhisek-Pandey/blob/a8c1c40f1154e9acfc2cd15ebc38a0f860d8e5d1/pictures/its_abhisek_ji-28112022-0001.jpg" width="250" height ="250"><img src="https://github.com/Abhisek-Pandey/Abhisek-Pandey/blob/49a348a53a569bb70d275508a86a72247794cc93/pictures/its_abhisek_ji-28112022-0002.jpg" width="250" height ="250"><img src="https://github.com/Abhisek-Pandey/Abhisek-Pandey/blob/49a348a53a569bb70d275508a86a72247794cc93/pictures/its_abhisek_ji-28112022-0006.jpg" width="250" height ="250"><img src="https://github.com/Abhisek-Pandey/Abhisek-Pandey/blob/49a348a53a569bb70d275508a86a72247794cc93/pictures/its_abhisek_ji-28112022-0007.jpg" width="250" height ="250">
+<img src="https://github.com/Abhisek-Pandey/Abhisek-Pandey/blob/a8c1c40f1154e9acfc2cd15ebc38a0f860d8e5d1/pictures/its_abhisek_ji-28112022-0001.jpg" width="250" height ="250">          <img src="https://github.com/Abhisek-Pandey/Abhisek-Pandey/blob/49a348a53a569bb70d275508a86a72247794cc93/pictures/its_abhisek_ji-28112022-0002.jpg" width="250" height ="250">
+<img src="https://github.com/Abhisek-Pandey/Abhisek-Pandey/blob/49a348a53a569bb70d275508a86a72247794cc93/pictures/its_abhisek_ji-28112022-0006.jpg" width="250" height ="250">          <img src="https://github.com/Abhisek-Pandey/Abhisek-Pandey/blob/49a348a53a569bb70d275508a86a72247794cc93/pictures/its_abhisek_ji-28112022-0007.jpg" width="250" height ="250">
 
 
 ![Abhisek's github stats](https://github-readme-stats.vercel.app/api?username=Abhisek-Pandey&hide=["issues"]&show_icons=true)
