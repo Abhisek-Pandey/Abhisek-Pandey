@@ -1,18 +1,15 @@
-<h1>°| नमस्ते , I'm The Abhisek Pandey|°<img src="https://thepowerpointblog.com/wp-content/uploads/2021/06/Handwave.gif" width="200px"></h1>
+<h1>°| नमस्ते , I'm The Abhisek Pandey |°<img src="https://thepowerpointblog.com/wp-content/uploads/2021/06/Handwave.gif" width="200px"></h1>
 
 
 <img align='right' src='https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif' width='200"'>
+                           https://camo.githubusercontent.com/abb97269de2982c379cbc128bba93ba724d8822bfbe082737772bd4feb59cb54/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667
 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhisek-pandey/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/what.r.u.doing.with.URL/)  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/its_abhisek_ji/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhisek.pandey.1289@gmail.com)
 
-I am **`Abhisek Pandey`** 🧔🏻‍♂️. I am from **Berhampur, Odisha** and currently doing my **B.Tech** from **`Gandhi Institute for Education and Technology, Baniatangi`** 🏫. I love to explore and learn about new things. Always find my self in unusal place, where i should not be. I wont brag that **`I like challenges`** but though would brag that **`either I Ace`** on it or **`Learn from it.`** 
+I am **`Abhisek Pandey`** 🧔🏻‍♂️. I am from **Berhampur, Odisha** and currently doing my **B.Tech** from **`Gandhi Institute for Education and Technology, Baniatangi`** 🏫. I love to explore and learn about new things. Always find my self in unusal place, where i should not be. I wont brag that **`I like challenges`** but though would brag that **`either I Ace`** on it or **`Learn from it.`**. I am definetly not writting a resume here, So let me show you few of my 
 
-
-## 👯 Communities
-* .
-* 
 ## ⚡ Languages
 Talk to me about:
 * ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -25,8 +22,8 @@ Talk to me about:
 ## Hello World!! 🤔
 - 💬 Ask me about anything an everything.
 - 🎯 Portfolio site: Under Development.
-- ⚡ Fun fact: Internet users blink less than usual.
+- ⚡ Fun fact: There are over 700 programming languages, here I am at one.
 
-![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=Abhisek-Pandey&hide=["issues"]&show_icons=true)
+![Abhisek's github stats](https://github-readme-stats.vercel.app/api?username=Abhisek-Pandey&hide=["issues"]&show_icons=true)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Abhisek-Pandey.Abhise-Pandey)
