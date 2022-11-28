@@ -1,4 +1,4 @@
-<h1>नमस्ते , Welcomming you is °|Abhisek Pandey|°<img src="https://thepowerpointblog.com/wp-content/uploads/2021/06/Handwave.gif" width="50px"></h1>
+<h1>नमस्ते , Welcomming you is °|Abhisek Pandey|°<img src="https://thepowerpointblog.com/wp-content/uploads/2021/06/Handwave.gif" width="100px"></h1>
 
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
