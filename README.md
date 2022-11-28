@@ -1,14 +1,14 @@
 <h1>°| नमस्ते , I'm The Abhisek Pandey|°<img src="https://thepowerpointblog.com/wp-content/uploads/2021/06/Handwave.gif" width="200px"></h1>
 
 
-<img align='right' src='https://user-images.githubusercontent.com/25642379/89112043-60fe4d80-d412-11ea-920f-aa722997007a.gif' width='200px'>
+<img align='right' src='https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif' width='200"'>
 
 [![Twitter Badge](https://img.shields.io/badge/-@Harshkhatri24-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Harshkhatri24)](https://twitter.com/Harshkhatri24)
  [![Linkedin Badge](https://img.shields.io/badge/-harshkumarkhatri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/harshkumarkhatri/) 
  [![Medium Badge](https://img.shields.io/badge/-@mailharshkhatri-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@mailharshkhatri/)](https://medium.com/harsh-kumar-khatri)
 [![Gmail Badge](https://img.shields.io/badge/-mailharshkhatri@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailharshkhatri@gmail.com)](mailto:mailharshkhatri@gmail.com)
 
-I am Abhisek Pandey . I am from Kota, Rajasthan and currently doing my B.Tech from Career Point University, Alniya 🏫. I love to explore and learn about new things.
+I am Abhisek Pandey<imp src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/man-light-skin-tone-beard_1f9d4-1f3fb-200d-2642-fe0f.png" width=10px>. I am from Kota, Rajasthan and currently doing my B.Tech from Career Point University, Alniya 🏫. I love to explore and learn about new things.
 ## 👯 Communities
 * DSC Lead.
 * Mentor at HackItShipIt(MLH), Hack for the people, HackinCodes.
