@@ -29,6 +29,7 @@ Some Pictures of Mine:-
 
 ![Picture 1](pictures\its_abhisek_ji-28112022-0001.jpg)
 
+![Picture 1](Abhisek-Pandey\pictures\its_abhisek_ji-28112022-0001.jpg)
 ![Abhisek's github stats](https://github-readme-stats.vercel.app/api?username=Abhisek-Pandey&hide=["issues"]&show_icons=true)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Abhisek-Pandey.Abhise-Pandey)
