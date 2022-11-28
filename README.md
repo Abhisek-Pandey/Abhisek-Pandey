@@ -1,7 +1,7 @@
 <h1>°| नमस्ते , I'm The Abhisek Pandey|°<img src="https://thepowerpointblog.com/wp-content/uploads/2021/06/Handwave.gif" width="200px"></h1>
 
 
-<img align='right' src='https://media.tenor.com/BqbIhT4Mb7cAAAAC/programmer-rounded-edges.gif' width='200"'>
+<img align='right' src='https://user-images.githubusercontent.com/25642379/89112043-60fe4d80-d412-11ea-920f-aa722997007a.gif' width='200"'>
 
 [![Twitter Badge](https://img.shields.io/badge/-@Harshkhatri24-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Harshkhatri24)](https://twitter.com/Harshkhatri24)
  [![Linkedin Badge](https://img.shields.io/badge/-harshkumarkhatri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/harshkumarkhatri/) 
